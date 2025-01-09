@@ -6,5 +6,5 @@ Detalle del proyecto; línea modificada por completo.
 Línea añadida.
 
 
-## Estos cambios son nuevos
+## Estos cambios son nuevos desde LOCAL
 

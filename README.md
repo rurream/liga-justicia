@@ -7,4 +7,5 @@ Línea añadida.
 
 
 ## Estos cambios son nuevos desde LOCAL
+## Estos cambios son nuevos desde GitHub
 

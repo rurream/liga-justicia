@@ -2,7 +2,8 @@
 
 ## Resumen
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia (modificado).
+Detalle del proyecto; línea modificada por completo.
+Línea añadida.
 
 
 ## Notas

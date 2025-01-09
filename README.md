@@ -6,9 +6,5 @@ Detalle del proyecto; línea modificada por completo.
 Línea añadida.
 
 
-## Notas
-Pueden hacer lo que quieran...
+## Estos cambios son nuevos
 
-
-### Actualizado desde GitHub
-Mensaje agregado directamente en GitHub
